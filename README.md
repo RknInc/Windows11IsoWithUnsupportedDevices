@@ -8,3 +8,7 @@ Install Windows to all devices running windows 10
 *This is a modified version of windows 10 iso but has all windows 11 files this will work*
 
 If you want to install a fresh install download iso via rufus with FatXd file system then set boot prioraty to Your Drive that contains the iso file
+
+To ensure no corruption of your files we recommend creating a backup to a external drive this can be USB , SATA , DISK 
+
+Enjoy windows 11 :D
